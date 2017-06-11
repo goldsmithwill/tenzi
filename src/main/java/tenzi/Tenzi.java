@@ -28,7 +28,7 @@ public class Tenzi {
 			rollNum++;
 			System.out.println(diceList);
 		} while (allDiceEqual() == false);
-
+		
 		// once the do-while loop breaks, prints diceArray
 		// and how many rolls it took to get all of the numbers to be equal
 
